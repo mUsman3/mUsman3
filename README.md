@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mUsman3
-- 👀 I’m interested in Security and Cloud Technologies
+- 👋 Hi, I’m Muhammad Usman
+- 👀 I’m interested in Security and DevOps 
 - 🌱 I’m currently learning Cloud Technologies
-- 💞️ I’m looking to collaborate on Monitoring and Containerization Projects 
-- 📫 How to reach me, You can reach me using my email.
+- 💞️ I’m looking to collaborate on Containerization Projects 
+- 📫 How to reach me on usman.interact@gmail.com or https://www.linkedin.com/in/musmn/
 
 <!---
 mUsman3/mUsman3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
